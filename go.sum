@@ -1,0 +1,10 @@
+github.com/jmcvetta/napping v3.2.0+incompatible h1:shS22lJu18MtyRV7IqWenMmrRXCjADcUcxONAnp5zxY=
+github.com/jmcvetta/napping v3.2.0+incompatible/go.mod h1:dlR6SvwNgFr2ASHFGDIO2fhkZM2rU/9B6NB6xUciyv4=
+github.com/surge/glog v0.0.0-20141108051140-2578deb2b95c h1:cVA8Fd14+bmcDyVutgf976DrV9RzNO4SMzUQmfJDMrw=
+github.com/surge/glog v0.0.0-20141108051140-2578deb2b95c/go.mod h1:W6gI0HQAbNyEO/62hesTBIbabSGJaEdlUApLw8UtuB0=
+github.com/surgemq/message v0.0.0-20151017233315-2b7ca1ac6121 h1:XPyDni7REGO4jY31bhtnRU6WSnj4r2eCYQYMeUBShx4=
+github.com/surgemq/message v0.0.0-20151017233315-2b7ca1ac6121/go.mod h1:aB2Klx/7IKkvtychYbb2GsLDXJMiRgGHbM688Y0eIds=
+github.com/surgemq/surgemq v0.0.0-20181111185059-782e2da07805 h1:nBoLRzlCXyXLUiWT0/44X/XfHikQ85hNg341NScsT0M=
+github.com/surgemq/surgemq v0.0.0-20181111185059-782e2da07805/go.mod h1:ZfhTIH1/q/0oGKBys58X5cbpBix3b3Nj3uka/UQ+GXk=
+github.com/think-free/mqttclient v0.0.0-20190714082416-91181ccaeb5f h1:ju9m/BpHzsjKbEFMmLo3tjvnmPlgiYIrQj0pG2m4LiU=
+github.com/think-free/mqttclient v0.0.0-20190714082416-91181ccaeb5f/go.mod h1:uH6wYd9dXVVw6lpgxzK6oEOGdP0iLWtzgY+I+IVzVAY=
