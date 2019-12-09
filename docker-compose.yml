@@ -1,0 +1,12 @@
+version: '3'
+services:
+    solax:
+        container_name: solax
+        image: 'thinkfree84/solax'
+        build:
+            context: ./
+            dockerfile: Dockerfile
+        environment:
+            - SOLAX_BROKER=localhost
+            - SOLAX_TOPIC=solax
+

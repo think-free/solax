@@ -9,6 +9,8 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/jamiealquiza/envy"
+
 	"github.com/think-free/mqttclient"
 )
 
@@ -27,7 +29,8 @@ func main() {
 	cname := flag.String("name", "solax", "Mqtt client name")
 	broker := flag.String("broker", "broker", "Mqtt broker ip")
 	topic := flag.String("topic", "solax", "Mqtt base topic")
-	flag.Parse()
+
+	envy.Parse("SOLAX")
 
 	cli := mqttclient.NewMqttClient("Device_"+*cname, *broker)
 	cli.Connect()
